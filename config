@@ -1,6 +1,6 @@
 [DEFAULT]
 user=ocid1.user.oc1..aaaaaaaag4ad3sulnxrilwswgrmriixfvadyecwcc2qegcfakpjfk2bf5jfa
-fingerprint=af:94:ec:25:0d:c5:1c:40:36:ee:1f:2c:1c:dc:66:65
+fingerprint=59:25:09:5f:3c:97:63:e8:77:80:50:33:52:4b:f2:51
 tenancy=ocid1.tenancy.oc1..aaaaaaaa7csr53zx44r67jnf32f4j7iysk53qke56xaq4rfyn6wyg36laeuq
 region=sa-santiago-1
-key_file=<path to your private keyfile>
+key_file=oci_private_key.pem
