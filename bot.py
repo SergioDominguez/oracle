@@ -1,9 +1,9 @@
-displayName = 'windowsrdp'
-compartmentId = 'ocid1.tenancy.oc1..aaaaaaaarbrmmxbh6zepzkslxm5ojr7rzr3acruhy5ybju7bgzd5pvq335ca'
-availabilityDomain = "zlEC:AP-SINGAPORE-1-AD-1"
-imageId = "ocid1.image.oc1.ap-singapore-1.aaaaaaaawmzeznxon5vnxxsudssz4k5nmemctydvd2dwmm54bspws7oj772q"
-subnetId = 'ocid1.subnet.oc1.ap-singapore-1.aaaaaaaafeijlmw7efv37vb7i6p4nl3xnro5wwynnqljmn2g24hzts22qc4a'
-ssh_authorized_keys = "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICP3J8H9V/UuK8B/ScMTYefK7jH/D0R8oN8BttbEzvlD ubuntu"
+displayName = 'instance-20230306-1703'
+compartmentId = 'ocid1.tenancy.oc1..aaaaaaaa7csr53zx44r67jnf32f4j7iysk53qke56xaq4rfyn6wyg36laeuq'
+availabilityDomain = "apRo:SA-SANTIAGO-1-AD-1"
+imageId = "ocid1.image.oc1.sa-santiago-1.aaaaaaaafoniptaodo6jhok276dvg4bg7cwk2fppnlwv3aqfwugmzpwrfzja"
+subnetId = 'ocid1.subnet.oc1.sa-santiago-1.aaaaaaaaklne72mfk5ojwmidj6b2i6chakikwh2tjgtzu6auhml7fyjnrypa'
+ssh_authorized_keys = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCqZt2jI57qicW7/+Q1M6f2AYtOCMEb9Ihjl6vBitt2us5Dj1r5BLhS82xyAm41ZmgEq59F9z1diq+q40Sxqlcxh0Tzg1HcD/i19Fn9w9uJ8erIUo2SLBuOgMML7lJ1/I68bm/dZNMSJoRRla3j4kR8OS9Xc49JIqeJMuomlIk5Qb05oOU4Y+94vDXcVtVLh8AmZ8r6LF/yhBd07pcbtMTlYxCClJqicYgQFgkU0+EHKJpsKIqu1u35H2Q82QbzrTb8DWcreYY5drlM7tH3RSqOLSOdcB2cMlOP9dBKGcO15fZUhqJetZX6WgIYHoxzuUBl67JtLB5asOowFwYjKaRf ssh-key-2023-03-06"
 
 
 import oci
